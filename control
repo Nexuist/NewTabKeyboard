@@ -1,0 +1,9 @@
+Package: com.nexuist.newtabkeyboard
+Name: NewTabKeyboard
+Depends: mobilesubstrate, firmware(>=7.0)
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: DIS BE TWEAK DAT SHOWS KEYBOARD WHEN YOU OPEN NEW TAB IN SAFARI. IS VERY REVOLUTIONARY. GET NOW.
+Maintainer: Nexuist <nexuister@gmail.com>
+Author: Nexuist
+Section: Tweaks
