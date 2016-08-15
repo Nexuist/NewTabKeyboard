@@ -8,7 +8,7 @@ NewTabKeyboard was an iOS jailbreak tweak I released on 6/1/2014. It offered a v
 
 [BigBoss Download Link](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newtabkeyboardDp)
 
-[GitHub Release](soon) TODO
+[GitHub Release](https://github.com/Nexuist/NewTabKeyboard/releases/) 
 
 ### Next Steps
 
