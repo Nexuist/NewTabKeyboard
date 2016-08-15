@@ -21,10 +21,6 @@ static NavigationBar *navbar = nil;
 
 
 %hook TabController
-// TODO:
-// make keyboard open when safari opens to a new tab
-// make keyboard open when you select a blank tab in the tab view (done, but opens for every tab and not just blank ones)
-// make keyboard open when you add a new tab (done)
 
 -(void)tiltedTabViewDidPresent:(id)arg1
 {
