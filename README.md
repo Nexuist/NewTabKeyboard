@@ -4,6 +4,8 @@ NewTabKeyboard was an iOS jailbreak tweak I released on 6/1/2014. It offered a v
 
 [Demonstration Video](https://www.youtube.com/watch?v=vJKkZYZGh0Q)
 
+[Download Stats](http://apt.thebigboss.org/stats.php?dev=nexuist) (At the time of writing, around 8,000 for the latest version)
+
 [BigBoss Download Link](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newtabkeyboardDp)
 
 [GitHub Release](soon) TODO
@@ -13,12 +15,20 @@ NewTabKeyboard was an iOS jailbreak tweak I released on 6/1/2014. It offered a v
 ###### Bugs
 
 * Jeff mentioned in his iDownloadBlog video that the keyboard doesn't open in the default startup tab - oops
-* Check if keyboard opens if you open a blank tab in the tab view
 
-As of August 2016, this functionality is still not present in iOS. Updating this tweak for iOS 10 when a jailbreak releases wouldn't be very difficult.
+* Does the keyboard open if you open a blank tab in the tab view?
+
+* Does it still work on iOS 10 Safari? Google Chrome?
+
+As of August 2016, the functionality this software provides is still not present in iOS. Updating this tweak for iOS 10 when a jailbreak releases wouldn't be very difficult.
 
 Also, one of the viewers mentioned having a tweak that could open the keyboard in the Messages app whenever you enter a conversation. That could be an interesting path to evolve this tweak - have it open the keyboard in many more apps than just the browser.
 
+### Credits
+
+* http://developer.limneos.net/ - for providing class headers online so I wouldn't have to dump them myself
+
+* \#theos on irc.saurik.com for general help
 
 ### License
 ```
